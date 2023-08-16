@@ -73,7 +73,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SaoasBlubb/SaoasBlubb/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SaoasBlubb/SaoasBlubb/main/output/snake.svg" alt="Snake animation" />
 
 ###
 
